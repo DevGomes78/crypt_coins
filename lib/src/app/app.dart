@@ -18,7 +18,8 @@ class App extends StatelessWidget {
         )
       ],
       child: MaterialApp(
-        color: Color(0xFF01E59B),
+        debugShowCheckedModeBanner: false,
+        color: const Color(0xFF01E59B),
         title: 'Coins Flutter Mobile Test',
         theme: ThemeData(
           primarySwatch: Colors.blue,
