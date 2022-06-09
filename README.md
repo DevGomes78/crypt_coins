@@ -1,16 +1,14 @@
-# crypt_coins
+<h1>Desafio CriptoMoedas</h1>
+ >Status: em Desenvolvimento ⚠️
 
-A new Flutter project.
+### O objetivo desse desafio é utilizar Lista de Criptomoedas baseada no json,baseada no json.
+Mostrar o Saldo do usuario e ID da carteira
+Ao Clicar em uma moeda motrar os detalhes dela.
 
-## Getting Started
+## Dependencias Utilizadas:
++ provider,
++ intl:,
++ lottie:,
++ decimal:,
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![crypto_coins](https://user-images.githubusercontent.com/98062365/172922155-a5b0a248-351f-4afa-aa0b-87f69d641bef.gif)
