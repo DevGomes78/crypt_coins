@@ -1,7 +1,7 @@
 <h1>Desafio CriptoMoedas</h1>
  >Status: em Desenvolvimento ⚠️
 
-### O objetivo desse desafio é utilizar Lista de Criptomoedas baseada no json,baseada no json.
+### O objetivo desse desafio é utilizar Lista de Criptomoedas baseada no json,
 Mostrar o Saldo do usuario e ID da carteira
 Ao Clicar em uma moeda motrar os detalhes dela.
 
